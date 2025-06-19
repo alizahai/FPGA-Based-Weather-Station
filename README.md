@@ -168,9 +168,8 @@ fpga-weather-station/
 │   ├── BCDto7segment.v            # BCD to 7-segment decoder
 │   └── sevenSegDisplay.v          # Display multiplexer
 ├── constraints/
-│   └── nexys3_pins.ucf            # Pin constraint file
+│   └── top.ucf            # Pin constraint file
 ├── docs/
-│   ├── timing_diagrams.png        # DHT11 timing diagrams
 │   └── block_diagram.png          # System architecture
 └── README.md                      # This file
 ```
