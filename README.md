@@ -168,10 +168,10 @@ fpga-weather-station/
 │   ├── BCDto7segment.v            # BCD to 7-segment decoder
 │   └── sevenSegDisplay.v          # Display multiplexer
 ├── constraints/
-│   └── top.ucf            # Pin constraint file
+│   └── top.ucf                    # Pin constraint file
 ├── docs/
 │   └── block_diagram.png          # System architecture
-└── LICENSE                      # LICENSE file
+└── LICENSE                        # LICENSE file
 └── README.md                      # This file
 ```
 
