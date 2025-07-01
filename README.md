@@ -171,6 +171,7 @@ fpga-weather-station/
 │   └── top.ucf                    # Pin constraint file
 ├── docs/
 │   └── block_diagram.png          # System architecture
+│   └── Hardware_demonstration.MP4 # Prototype Demo
 └── LICENSE                        # LICENSE file
 └── README.md                      # This file
 ```
